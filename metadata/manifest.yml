@@ -10,8 +10,7 @@ Cartridge-Vendor: sosiouxme
 Vendor: sosiouxme
 Source-Url: https://github.com/PKUKILLA/diy-extra-port-cartridge.git
 Categories:
-  - web_framework
-  - experimental
+  -embedded
 Website:
 Help-Topics:
   "Getting Started": https://www.openshift.com/community/videos/getting-started-with-diy-applications-on-openshift
